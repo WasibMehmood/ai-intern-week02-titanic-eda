@@ -10,7 +10,7 @@ This project explores the Titanic dataset with data cleaning, visualization, and
 - Generate visualizations (Age histogram, Fare vs Age scatter plot)
 
 ## Requirements
-- Python 3.x
+- Python 3.9+
 - pandas
 - matplotlib
 - pytest
